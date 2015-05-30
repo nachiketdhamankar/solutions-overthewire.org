@@ -71,7 +71,7 @@ O/P : koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 
 
-Alternative method :- (Trial and error) Keep on trying each file with file -f command.
+Alternative method :- (Trial and error) Find the number of files by a ls -a command and then keep on trying each file with file -f command.
 
 Ex. : file -f -file00 and so on
 
