@@ -56,4 +56,27 @@ ssh bandit4@bandit.labs.overthewire.org
 
 password : pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
+
 <strong>Level 4 -> Level 5</strong>
+
+cd inhere
+
+ls
+
+for file in *; do echo $file; cat ./$file; done
+
+cat ./-file07
+
+O/P : koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+
+
+Alternative method :- (Trial and error) Keep on trying each file with file -f command.
+
+Ex. : file -f -file00 and so on
+
+
+
+ssh bandit5@bandit.labs.overthewire.org
+
+password : koReBOKuIDDepwhWk7jZC0RTdopnAYKh
