@@ -10,5 +10,8 @@
     ],
     "l3": [
         "cat ~/inhere/.hidden"
+    ],
+    "l4": [
+        "cd inhere && file ./* | grep \"ASCII text\" | cat `cut -d':' -f 1`"
     ]
 }
