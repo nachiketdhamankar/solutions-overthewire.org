@@ -1,0 +1,14 @@
+{
+    "l0": [
+        "cat ~/readme"
+    ],
+    "l1": [
+        "cat ~/-"
+    ],
+    "l2": [
+        "cat '/home/bandit2/spaces in this filename'"
+    ],
+    "l3": [
+        "cat ~/inhere/.hidden"
+    ]
+}
